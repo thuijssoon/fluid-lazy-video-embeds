@@ -1,7 +1,7 @@
 {
   "name": "fluid-lazy-video-embeds",
   "description": "Lazy load your YouTube and Vimeo videos and maintain their aspect ratio.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "gulpfile.js",
   "authors": [
     "Thijs Huijssoon"
