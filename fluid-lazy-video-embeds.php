@@ -5,7 +5,7 @@
  * Description: Lazy load your YouTube and Vimeo videos and maintain their aspect ratio.
  * Author: Thijs Huijssoon
  * Author URI: https://github.com/thuijssoon/
- * Version: 0.1.0
+ * Version: 0.1.1
  * Text Domain: fluid-lazy-video-embeds
  * Domain Path: languages
  *
