@@ -1,5 +1,5 @@
 # Fluid Lazy Video Embeds #
-[![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg)](https://github.com/thuijssoon/fluent-lazy-video-embeds/blob/master/license.txt)
+[![License](https://img.shields.io/badge/license-GPL--2.0%2B-red.svg)](https://github.com/thuijssoon/fluid-lazy-video-embeds/blob/master/license.txt)
 
 ### Welcome to our GitHub Repository
 
@@ -9,7 +9,7 @@ The plugin will wrap and amend your video embed output to display a video thumbn
 
 ## Installation ##
 
-To get the latest release head over to the releases area: `https://github.com/thuijssoon/fluent-lazy-video-embeds/releases'
+To get the latest release head over to the [releases](https://github.com/thuijssoon/fluent-lazy-video-embeds/releases).
 
 To get the latest development version, you can:
 
