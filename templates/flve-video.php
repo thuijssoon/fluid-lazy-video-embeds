@@ -1,0 +1,3 @@
+<div class="flve-video flve-<?php echo $proportions; ?> flve-<?php echo $provider; ?>" data-embed-url="<?php echo esc_url( $embed_url ); ?>">
+	<img src="<?php echo esc_url( $thumbnail_url ); ?>" alt="<?php echo esc_attr( $title ); ?>"><span></span><noscript><iframe src="<?php echo esc_url( $embed_url ); ?>" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></noscript>
+</div>

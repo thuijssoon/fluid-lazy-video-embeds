@@ -1,0 +1,43 @@
+{
+  "name": "fluid-lazy-video-embeds",
+  "version": "0.1.0",
+  "description": "Lazy load your YouTube and Vimeo videos and maintain their aspect ratio.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "install": "bower install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thuijssoon/fluid-lazy-video-embeds.git"
+  },
+  "author": "Thijs Huijssoon",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/thuijssoon/fluid-lazy-video-embeds/issues"
+  },
+  "homepage": "https://github.com/thuijssoon/fluid-lazy-video-embeds#readme",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-bump": "^2.1.0",
+    "gulp-cache": "^0.4.2",
+    "gulp-clean-css": "^2.0.8",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.7.1",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.2",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.1",
+    "node-neat": "^1.7.2",
+    "semver": "^5.1.0"
+  }
+}
