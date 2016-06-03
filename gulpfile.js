@@ -83,11 +83,11 @@ gulp.task('scripts', function () {
     "use strict";
     return gulp.src([
             /* Add your JS files here, they will be combined in this order */
-            'assets/js/src/flve-front-end.js'
+            'assets/js/src/flve-front-end.js',
+            'assets/js/src/flve-front-end-vanilla-js.js'            
         ])
         .pipe(jshint('.jshintrc'))
         .pipe(jshint.reporter('default'))
-        .pipe(concat('flve-front-end.js'))
         .pipe(header(banners.full, {
             pkg: pkg
         }))
@@ -165,12 +165,15 @@ gulp.task('bs-reload', function () {
 
 /* Bump tasks */
 gulp.task('bump:major', function () {
+    "use strict";
     bumpFiles('major');
 });
 gulp.task('bump:minor', function () {
+    "use strict";
     bumpFiles('minor');
 });
 gulp.task('bump:patch', function () {
+    "use strict";
     bumpFiles('patch');
 });
 

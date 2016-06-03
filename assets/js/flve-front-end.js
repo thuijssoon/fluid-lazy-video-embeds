@@ -1,5 +1,5 @@
 /*!
- * fluid-lazy-video-embeds v0.1.0: Lazy load your YouTube and Vimeo videos and maintain their aspect ratio.
+ * fluid-lazy-video-embeds v0.1.1: Lazy load your YouTube and Vimeo videos and maintain their aspect ratio.
  * (c) 2016 
  * GPL-2.0 License
  * git+https://github.com/thuijssoon/fluid-lazy-video-embeds.git
