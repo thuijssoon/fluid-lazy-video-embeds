@@ -166,7 +166,7 @@ if ( ! class_exists( 'FLVE_Front_End' ) ) :
 		}
 
 		wp_enqueue_style( 'flve-style', FLVE_PLUGIN_URL . '/assets/css/flve-front-end' . $suffix . '.css' );
-		wp_register_script( 'flve-script', FLVE_PLUGIN_URL . '/assets/js/flve-front-end' . $suffix . '.js', array( 'jquery' ), '', true );
+		wp_register_script( 'flve-script', FLVE_PLUGIN_URL . '/assets/js/flve-front-end-vanilla-js' . $suffix . '.js', array(), '', true );
 	}
 
 	/**
